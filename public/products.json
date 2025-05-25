@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Acoustic Vibes",
+    "category": "Guitar",
+    "type": "bestseller",
+    "price": 19.99,
+    "image": "images/acoustic.jpg",
+    "description": "A relaxing acoustic guitar instrumental perfect for background music."
+  },
+  {
+    "id": 2,
+    "name": "Piano Serenity",
+    "category": "Piano",
+    "type": "new",
+    "price": 14.99,
+    "image": "images/piano.jpg",
+    "description": "Beautiful solo piano instrumental for study or relaxation."
+  },
+  {
+    "id": 3,
+    "name": "Epic Strings",
+    "category": "Orchestra",
+    "type": "promo",
+    "price": 9.99,
+    "image": "images/strings.jpg",
+    "description": "An epic orchestral piece featuring strings and percussion."
+  },
+  {
+    "id": 4,
+    "name": "Lo-Fi Chillhop",
+    "category": "Electronic",
+    "type": "bestseller",
+    "price": 11.99,
+    "image": "images/lofi.jpg",
+    "description": "Lo-fi beats to relax/study to, perfect for chill moments."
+  },
+  {
+    "id": 5,
+    "name": "Jazz in the Night",
+    "category": "Jazz",
+    "type": "new",
+    "price": 13.99,
+    "image": "images/jazz.jpg",
+    "description": "Smooth jazz instrumental with sax and piano elements."
+  },
+  {
+    "id": 6,
+    "name": "Synthwave Dreams",
+    "category": "Electronic",
+    "type": "promo",
+    "price": 12.49,
+    "image": "images/synthwave.jpg",
+    "description": "Retro-futuristic synthwave vibes with an 80s aesthetic."
+  }
+]

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Instrumental Music Store</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Instrumental Music Store</h1>
+    <nav>
+      <ul>
+        <li><a href="#" onclick="showAll()">All Products</a></li>
+        <li><a href="#" onclick="filterType('new')">New Products</a></li>
+        <li><a href="#" onclick="filterType('bestseller')">Best Sellers</a></li>
+        <li><a href="#" onclick="filterType('promo')">Promotions</a></li>
+        <li><a href="#" onclick="showCategories()">Categories</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="categories" class="hidden"></section>
+    <section id="product-list"></section>
+    <section id="product-detail" class="hidden"></section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
